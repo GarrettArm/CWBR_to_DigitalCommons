@@ -1,4 +1,4 @@
-ID	ISBN	Price	Title	Teaser	Auth_1	Auth_2	Auth_3	Review	Reviewer	Issue_date	Issue	Record_type	Sub_headline	Headline	Publisher	Pub_date	Categories	SubCategories	Metadata	Image	Field21
+ID	ISBN	Price	Title	Teaser	Auth_1	Auth_2	Auth_3	Review	Reviewer	Issue_date	Issue	Record_type	Sub_headline	Headline	Publisher	Pub_date	Categories	SubCategories	Metadata	Image	Field21	Image2	Image3	Image4	Image5
 4566	978-0-8014-4846-1	$39.95	CWBR AUTHOR INTERVIEW <br>Becoming American under Fire: Irish Americans, African Americans, and the Politics of Citizenship during the Civil War		Samito, Christian G.			"<h3> Interview with Christian G. Samito, who teaches at Boston College </h3><br>
 <h3>Interviewed by Nathan Buman</h3>
 <p>
@@ -50,7 +50,7 @@ ID	ISBN	Price	Title	Teaser	Auth_1	Auth_2	Auth_3	Review	Reviewer	Issue_date	Issue
 <p> 
 <b>CWBR:</b> Professor Samito, thank you so much for joining me and discussing your most recent book, <i>Becoming American under Fire: Irish Americans, African Americans, and the Politics of Citizenship during the Civil War Era.</i></p>
 <p>
-<b>CS:</b> My pleasure; thanks so much for having me.</p>"	Buman, Nathan	Spring 2010	2010-05-01	Interview			Cornell University Press					"<img hspace=6 align=LEFT width=161 height=244 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/UnderFire.jpg"">"	
+<b>CS:</b> My pleasure; thanks so much for having me.</p>"	Buman, Nathan	Spring 2010	2010-05-01	Interview			Cornell University Press					"<img hspace=6 align=LEFT width=161 height=244 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/UnderFire.jpg"">"					
 5041	978-0-674-05288-8	$35.00	CWBR AUTHOR INTERVIEW: <br>The Great Heart of the Republic: St. Louis and the Cultural Civil war		Arenson, Adam			"<h3>Interview with Adam Arenson, Professor of History at the University of Texas at El Paso</h3><br>
 
 <h3>Interviewed by Nathan Buman</h3>
@@ -82,7 +82,7 @@ ID	ISBN	Price	Title	Teaser	Auth_1	Auth_2	Auth_3	Review	Reviewer	Issue_date	Issue
 
 <p><b>AA:</b> Well, the period, I would say following, even the War of 1812 forward to the firing on Fort Sumter, that period is a period of really vast dreams for the United States.  You have people like Ralph Waldo Emerson and Walt Whitman making poetic or artistic goals but you also have people like Thomas Hart Benton or the filibusterer, William Walker, making territorial goals, thinking about this is what we’re going to do when we integrate the West, this is what we are going to do when we integrate Nicaragua, Cuba, or other places that the United States doesn’t take in this period.  So, there are so many wild dreams and, the fact that many of them succeed, we often don’t think of how impossible some of these goals were.  When the question over slavery becomes paramount and the war begins, you begin to see a recalculation of how people think about the role of these broad ideas in their own lives.  In a book like Louis Menand’s <i>The Metaphysical Club</i> you see the effect of the fighting on some of the deepest thinkers in the country.  What I’m trying to do is bring the political story and the cultural story together in that way.  You see the success of some wild dreams in St. Louis-their work on the railroad, the success of Washington University-but you also see their failure of something like the moving of the national capital and the way in which they set up a large urban park that doesn’t really allow them to recapture the national imagination quite as they hoped.  And I think that those contradictions between really broad claims and the realities of the society that is dealing with the end of slavery is really something that shapes much of nineteenth-century U.S. history in places far beyond St. Louis.</p>
 <p><i><b>CWBR</i>:</b> That concludes our interview for this issue.  Professor Arenson, thank you for joining us today and discussing <i>The Great Heart of the Republic: St. Louis and the Cultural Civil War</i>.</p>
-<p><b>AA:</b> Thank you; I’ve enjoyed it.</p>"	Buman, Nathan	Winter 2012	2012-02-01	Interview			Harvard University Press					"<img hspace=6 align=LEFT width=161 height=241 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/TheGreatHeart.jpg"">"	
+<p><b>AA:</b> Thank you; I’ve enjoyed it.</p>"	Buman, Nathan	Winter 2012	2012-02-01	Interview			Harvard University Press					"<img hspace=6 align=LEFT width=161 height=241 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/TheGreatHeart.jpg"">"					
 4827	978-0-8078-3436-7	$35.00	CWBR AUTHOR INTERVEW: <br>Creating a Confederate Kentucky: the Lost Cause and Civil War Memory in a Border State		Marshall, Anne			"<h3>Interview with Anne Marshall, Assistant Professor of History at Mississippi State University</h3><br>
 
 <h3>Interviewed by Nathan Buman</h3>
@@ -136,7 +136,7 @@ ID	ISBN	Price	Title	Teaser	Auth_1	Auth_2	Auth_3	Review	Reviewer	Issue_date	Issue
 <p>
 <b><i>CWBR:</i></b> Professor Marshall, thank you so much for joining us this afternoon and discussing your new book, <i>Creating a Confederate Kentucky: The Lost Cause and Civil War Memory in a Border State</i>.</p>
 <p>
-<b>AM:</b> Well thank you so much for having me.</p>"	Buman, Nathan	Spring 2011	2011-05-01	Interview			University of North Carolina Press					"<img hspace=6 align=LEFT width=161 height=246 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/CreatingAConfederateKentucky.jpg"">"	
+<b>AM:</b> Well thank you so much for having me.</p>"	Buman, Nathan	Spring 2011	2011-05-01	Interview			University of North Carolina Press					"<img hspace=6 align=LEFT width=161 height=246 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/CreatingAConfederateKentucky.jpg"">"					
 5928	9781469617770	$35.00	CWBR Author Interview: <br>Through the Heart of Dixie: Sherman's March and American Memory		Rubin, Anne Sarah			"<h3>Interview with Anne Sarah Rubin, Associate Professor of History at the University of Maryland, Baltimore County</h3><br>
 <h3>Interviewed by Zach Isenhower</h3>
 <p>
@@ -201,7 +201,7 @@ ID	ISBN	Price	Title	Teaser	Auth_1	Auth_2	Auth_3	Review	Reviewer	Issue_date	Issue
 
 <p><b><i>CWBR</i></b>: Well Professor Rubin, I appreciate taking the time to sit and discuss with us your latest work, <i>Through the Heart of Dixie: Sherman's March and American Memory</i>.</p>
 
-<p><b>ASR</b>: Thank you so much, it was a pleasure.</p>"	Isenhower, Zach	Winter 2015	2015-02-01	Interview			University of North Carolina Press					"<img hspace=6 align=LEFT width=161 height=243 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/ThroughTheHeartOfDixie.jpg"">"	
+<p><b>ASR</b>: Thank you so much, it was a pleasure.</p>"	Isenhower, Zach	Winter 2015	2015-02-01	Interview			University of North Carolina Press					"<img hspace=6 align=LEFT width=161 height=243 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/ThroughTheHeartOfDixie.jpg"">"					
 6048	9780820343327	$29.95	CWBR Author Interview: <br>Empty Sleeves: Amputation in the Civil War South		Miller, Brian Craig			"<h3>Interview with Brian Craig Miller, Associate Professor of History at Emporia State University</h3><br>
 <h3>Interviewed by Zach Isenhower</h3>
 <p>
@@ -260,7 +260,7 @@ ID	ISBN	Price	Title	Teaser	Auth_1	Auth_2	Auth_3	Review	Reviewer	Issue_date	Issue
 
 <p><b><i>CWBR</i></b>: Well, an excellent look behind the grand narratives that certainly do need more complication.  Professor Miller, I appreciate you taking the time to discuss your most recent work, <i>Empty Sleeves: Amputation in the Civil War South</i>. </p>
 
-<p><b>BCM</b>: Thank you very much. </p>"	Isenhower, Zach	Summer 2015	2015-08-01	Interview			University of Georgia Press					"<img hspace=6 align=LEFT width=161 height=260 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/SouthEmptyS.jpg"">"	
+<p><b>BCM</b>: Thank you very much. </p>"	Isenhower, Zach	Summer 2015	2015-08-01	Interview			University of Georgia Press					"<img hspace=6 align=LEFT width=161 height=260 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/SouthEmptyS.jpg"">"					
 5986	9780817318482	$34.95	CWBR Author Interview: <br>The Rebel Yell: A Cultural History		Warren, Craig A.			"<h3>Interview with Craig A. Warren, Associate Professor of English and Prodessional Writing at Penn State Erie, The Behrend College</h3><br>
 <h3>Interviewed by Zach Isenhower</h3>
 <p>
@@ -317,7 +317,7 @@ ID	ISBN	Price	Title	Teaser	Auth_1	Auth_2	Auth_3	Review	Reviewer	Issue_date	Issue
 
 <p<b><i>CWBR</i></b>: Professor Warren, I won't ask you to offer your own rendition of the yell, but I thank you for taking a moment to sit down with us today and discuss your new book <i>The Rebel Yell: A Cultural History</i>. </p>
 
-<p><b>Warren</b>: Thank you very much for having me, it was a pleasure.</p>"	Isenhower, Zach	Spring 2015	2015-05-01	Interview			University of Alabama Press					"<img hspace=6 align=LEFT width=161 height=239 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/RebelYellHist.jpeg"">"	
+<p><b>Warren</b>: Thank you very much for having me, it was a pleasure.</p>"	Isenhower, Zach	Spring 2015	2015-05-01	Interview			University of Alabama Press					"<img hspace=6 align=LEFT width=161 height=239 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/RebelYellHist.jpeg"">"					
 4970	978-0-393-06618-0	$29.95	CWBR AUTHOR INTERVIEW: <br>The Fiery Trial: Abraham Lincoln and American Slavery		Foner, Eric			"<h3>Interview with Dr. Eric Foner, Dewitt Clinton Processor of History at Columbia University</h3><br>
 
 <h3>Interviewed by Nathan Buman</h3>
@@ -370,7 +370,7 @@ ID	ISBN	Price	Title	Teaser	Auth_1	Auth_2	Auth_3	Review	Reviewer	Issue_date	Issue
 <p>
 <b><i>CWBR:</i></b> Professor Foner, I would like to thank you, once again, for taking the time today to discuss with us <i>The Fiery Trial: Abraham Lincoln and American Slavery</i>.</p>
 <p>
-<b>EF:</b> Well I'm very happy to talk to you, absolutely.</p>"	Buman, Nathan	Fall 2011	2011-11-01	Interview			W. W. Norton & Company					"<img hspace=6 align=LEFT width=161 height=246 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/TheFieryTrial.jpg"">"	
+<b>EF:</b> Well I'm very happy to talk to you, absolutely.</p>"	Buman, Nathan	Fall 2011	2011-11-01	Interview			W. W. Norton & Company					"<img hspace=6 align=LEFT width=161 height=246 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/TheFieryTrial.jpg"">"					
 4900	978-0-674-04562-0	$27.95	CWBR AUTHOR INTERVIEW: <br>The Union War		Gallagher, Gary			"<h3>Interview with Dr. Gary Gallagher, John L. Nau III Professor of History at the University of Virginia</h3><br>
 
 <h3>Interviewed by Nathan Buman</h3>
@@ -420,7 +420,7 @@ ID	ISBN	Price	Title	Teaser	Auth_1	Auth_2	Auth_3	Review	Reviewer	Issue_date	Issue
 <p>    
 <b><i>CWBR:</i></b> Professor Gallagher, thank you for taking the time to discuss <i>The Union War</i> with us.</p>
 <p>
-<b>GG:</b> You’re certainly welcome.</p>"		Summer 2011	2011-08-01	Interview			Harvard University Press					"<img hspace=6 align=LEFT width=161 height=243 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/UnionWar.jpg"">"	
+<b>GG:</b> You’re certainly welcome.</p>"		Summer 2011	2011-08-01	Interview			Harvard University Press					"<img hspace=6 align=LEFT width=161 height=243 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/UnionWar.jpg"">"					
 5512	978-1-59420-342-8	$36.00	CWBR Author Interview: <br> More than Freedom: Fighting for Black Citizenship in a White Republic 1829-1889		Kantrowitz, Stephen			"<h3>Interview with Stephen Kantrowitz, Professor of History and Director of Graduate Studies at the University of Wisconsin, and recently named a finalist for the Gilder Lehrman Douglass Prize </h3><br>
 
 <h3>Interviewed by Michael Frawley</h3>
@@ -472,7 +472,7 @@ ID	ISBN	Price	Title	Teaser	Auth_1	Auth_2	Auth_3	Review	Reviewer	Issue_date	Issue
 <p>
 <i><b><p >CWBR: </i></b> Professor Kantrowitz, I appreciate you taking the time to discuss your most recent work, <i>More than Freedom: Fighting for Black Citizenship in a White Republic, 1829-1889</i>. Thank you for joining us today.</p>
 <p>
-<b>SK:</b> It has been a great pleasure.</p>"	Frawley, Michael	Summer 2013	2013-08-01	Interview			Penguin Press					"<img hspace=6 align=LEFT width=161 height=243 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/MoreThanFreedom.jpg"">"	
+<b>SK:</b> It has been a great pleasure.</p>"	Frawley, Michael	Summer 2013	2013-08-01	Interview			Penguin Press					"<img hspace=6 align=LEFT width=161 height=243 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/MoreThanFreedom.jpg"">"					
 6306	9780307592644	$30.00	CWBR Author Interview: <br>Custer's Trials: A Life on the Frontier of a New America		Stiles, T.J.			"<h3>Interview with T.J. Stiles, author of <i>Custer’s Trials: A Life on the Frontier of a New America</i> </h3><br>
 <h3>Interviewed by Tom Barber</h3>
 <p>
@@ -521,7 +521,7 @@ ID	ISBN	Price	Title	Teaser	Auth_1	Auth_2	Auth_3	Review	Reviewer	Issue_date	Issue
 
 <p><b><i>CWBR</i></b>: Well, I appreciate you taking the time to chat with us about your most recent work: <i>Custer's Trials: A Life on the Frontier of the New America</i>.</p>
 
-<p><b>Stiles</b>: Thank you very much.</p>"	Barber, Tom	Summer 2016	2016-08-01	Interview			Knopf					"<img hspace=6 align=LEFT width=161 height=240 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/StilesCustersTrials.jpg"">"	
+<p><b>Stiles</b>: Thank you very much.</p>"	Barber, Tom	Summer 2016	2016-08-01	Interview			Knopf					"<img hspace=6 align=LEFT width=161 height=240 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/StilesCustersTrials.jpg"">"					
 5284	978-1-4000-4200-5	$30.00	CWBR AUTHOR INTERVIEW: <br>We Have the War Upon Us: The Onset of the Civil War, December 1860-April 1861		Cooper, William J.			"<h3>Interview with William J. Cooper, Boyd Professor of History at Louisiana State University</h3>
 
 <h3>Interviewed by Nathan Buman</h3>
@@ -565,7 +565,7 @@ ID	ISBN	Price	Title	Teaser	Auth_1	Auth_2	Auth_3	Review	Reviewer	Issue_date	Issue
 <p>
 <p><b> (WJC):</b> I think that Crittenden did all that Crittenden could do.  He could not move Lincoln; he could not move the Republicans.  The Republican Party was not going to break with Lincoln.  He was the first elected Republican.  The Republicans had never had the White House before and they were going to stand united behind that man if they could.  And even Seward, who wanted to go toward Crittenden wasn’t going to break with Lincoln.  They were going to keep a united party.  It was not Crittenden’s fault as one hard-liner Republican said and I quote him: “we couldn’t stand firm until people like Clay and Webster were gone.”  Crittenden just couldn’t move the people he had to move. </p>
 
-<b><i>CWBR</i>:</b> Professor Cooper, I appreciate you taking the time to sit and discuss your most recent work, <i>We have the War Upon Us: The Onset of the Civil War, December 1860-April 1861.</i></p>"	Buman, Nathan	Fall 2012	2012-11-01	Interview			Knopf					"<img hspace=6 align=LEFT width=161 height=240 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/WeHaveTheWarUponUs.jpg"">"	
+<b><i>CWBR</i>:</b> Professor Cooper, I appreciate you taking the time to sit and discuss your most recent work, <i>We have the War Upon Us: The Onset of the Civil War, December 1860-April 1861.</i></p>"	Buman, Nathan	Fall 2012	2012-11-01	Interview			Knopf					"<img hspace=6 align=LEFT width=161 height=240 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/WeHaveTheWarUponUs.jpg"">"					
 4053	9780807133712	$24.95 hardcover	CWBR Author Interview: <br>Jefferson Davis and the Civil War Era		Cooper, William J., Jr.			"<h3>Interview with William J. Cooper, Jr.<br>
 Interviewed by Christopher Childers</h3>
 <p>
@@ -625,7 +625,7 @@ What he preferred and what he had supported and voted for in 1848 was to extend 
 <p>
 <b><i>WJC:</i></b> In that last essay, I argue that Davis had a very important role to play.  He was not young enough, as some of the men who historians normally point to as the real founders of the Lost Cause ideology, but was an older man and older generation.  If you look at his memoir, <i>The Rise and Fall of the Confederate Government</i>, which was published in 1881, he specifically says in it that slavery was not the cause of war.  If you look at the remarks he made in Montgomery in 1886, which was the focus of that essay, again there is nothing said about slavery. But if you contrast those remarks with the remarks he made in Montgomery in 1861, when he was the provisional president, in both his actual inaugural address and the remarks he made in public before that in Montgomery he put slavery at the very forefront of what was going on.  So I think he was absolutely in sync, if you will, with the general thrust of southern opinion at that time that was putting slavery and race out of it. The unity of North and South was coming, was taking place and nobody wanted to talk about slavery, and Southerners certainly didn't.</p>
 <p>
-<b><i>CWBR:</i></b> Thank you.</p>"	Childers, Christopher	Fall 2008	2008-11-01	Interview			Louisiana State University Press					"<img hspace=6 align=LEFT width=161 height=247 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/JDandCWEra.gif"">"	
+<b><i>CWBR:</i></b> Thank you.</p>"	Childers, Christopher	Fall 2008	2008-11-01	Interview			Louisiana State University Press					"<img hspace=6 align=LEFT width=161 height=247 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/JDandCWEra.gif"">"					
 5864	9781594161919	$35.00	CWBR Author Interview: <br>To Raise Up a Nation: John Brown, Frederick Douglass, and the Making of a Free Country		King, William S.			"<h3>Interview with William S. King, independent scholar</h3><br>
 <h3>Interviewed by Zach Isenhower</h3>
 <p>
@@ -668,7 +668,7 @@ What he preferred and what he had supported and voted for in 1848 was to extend 
 
 <p><strong>King</strong>: Yes and that was going to be my next statement. All of his work on John brown, so scholars haven't had the benefit of going directly to those papers. I was mentioning Phillip Foner's volumes the <i>Life and Writings of Fredrick Douglass</i>, which is a 5 volume series. I don't know how many people read those, but I've broke the backs of several of them, bent the pages right out the book in find that it is a marvelous history of the period, in the most comprehensive sense. It's not incidental or undeserving of study, and I’m sure many scholars have gone to it, but I don't think it's been quite appreciated to the extent that merits even yet. Brown and Douglass, the meaning of their relationship the depth and contact I try to bring out in the book but the skeleton is based on Douglass's on writings. </p>
 
-<p><strong><i>CWBR</i></strong>: Thank you Mr. King, for taking your time to discuss your most recent work <i>To Raise Up a Nation: John Brown, Fredrick Douglass, and The Making of A Free Country</i>.</p>"	Isenhower, Zach	Fall 2014	2014-11-01	Interview			Westholme					"<img hspace=6 align=LEFT width=161 height=248 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/ToRaiseTheMakingOfAKing.jpg"">"	
+<p><strong><i>CWBR</i></strong>: Thank you Mr. King, for taking your time to discuss your most recent work <i>To Raise Up a Nation: John Brown, Fredrick Douglass, and The Making of A Free Country</i>.</p>"	Isenhower, Zach	Fall 2014	2014-11-01	Interview			Westholme					"<img hspace=6 align=LEFT width=161 height=248 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/ToRaiseTheMakingOfAKing.jpg"">"					
 4395	9781400066759	$28.00	CWBR AUTHOR INTERVIEW: <BR> No Quarter: The Battle of the Crater, 1864		Slotkin, Richard			"<h3>Interview with Richard Slotkin</h3><br>
 <h3>Interviewed by Nathan Buman</h3>
 <p>
@@ -718,7 +718,7 @@ What he preferred and what he had supported and voted for in 1848 was to extend 
 <p>
 <b><i>RS: </b></i> Well Blight's book on that subject is absolutely correct.  In the case of the crater battle we can actually see that in the speeches that were made during the reenactments that were developed in order to create a battlefield park, that blacks are deliberately excluded from that.  And part of the reason is that at the time that these commemorative movements are really gaining strength and influence this is the Jim Crow era in southern politics, when blacks who had gained civil rights in the post war period have those civil rights taken away by state action and this is when the regime of segregation and the elimination of blacks from the voting roles is taking place in the South and also the great waves of lynching in the South.  So it’s that sort of groundswell shift in southern politics that I think is part of that denial of a black role in the Battle of the Crater.  In a way though from the northern side it's consistent with what happened during the battle, that is to say the northerners in the battle identified more with their fellow whites than with their black comrades in arms and that tendency is carried through in the postwar period  as well. </p>
 <p>
-<b><i>CWBR: </b></i> Professor Slotkin, thank you so much for joining me in discussing your latest book: No quarter: The Battle of the Crater, 1864. </p>"	Buman, Nathan	Fall 2009	2009-11-01	Interview			Random House					"<img hspace=6 align=LEFT width=161 height=239 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/NoQuarter.jpg"">"	
+<b><i>CWBR: </b></i> Professor Slotkin, thank you so much for joining me in discussing your latest book: No quarter: The Battle of the Crater, 1864. </p>"	Buman, Nathan	Fall 2009	2009-11-01	Interview			Random House					"<img hspace=6 align=LEFT width=161 height=239 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/NoQuarter.jpg"">"					
 5737	978-1-4696-1076-4	$39.95	CWBR Author Interview: <br>Nature's Civil War: Common Soldiers and the Environment in 1862 Virginia		Meier, Kathryn Shively			"<h3>Interview with Kathryn Shively Meier, Assistant Professor of History at Virginia Commonwealth University</h3><br>
 <h3>Interviewed by Michael Frawley</h3>
 <p>
@@ -762,7 +762,7 @@ What he preferred and what he had supported and voted for in 1848 was to extend 
 
 <p><b>KM:</b> Soldiers continue to practice self-care throughout the war. Discipline did improve straggling and it was evaded. Both sides learned that their medical systems were inadequate to the task of caring for these massive armies, and went about improving hospitals, supplies, rations, etc. The U.S. really had an advantage with the intervention with the U.S. Sanitary Commission who had been investigating soldier camps and making recommendations for improved sanitation and environmental management. As well as providing supplies and nurses since the beginning of the war. In the Army of Potomac, the Union Army looked at a new medical director, Jonathan Letterman, who came in and addressed problems like ambulance evacuation to considerable affects starting in July of 1962. In the end, the Civil War had a much better track record than the Mexican-American War in terms of mortality due to disease. In the Mexican-American War, 80% of mortalities had been from disease and in this war, only 66% by war's end. However, I would argue that it remains very much due to credit of the soldiers themselves and the individual decisions they made caring for one another, and adapt to the environment of war. They were able to mentally and physically preserve here. </p>
 
-<i><b><p> CWBR: </i></b> Professor Meier, I appreciate you taking the time to sit and discuss your most recent work, <i>Nature's Civil War: Common Soldiers and the Environment in 1862 Virginia.</i></p>"	Frawley, Michael	Spring 2014	2014-05-01	Interview			University of North Carolina Press					"<img hspace=6 align=LEFT width=161 height=242 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/NaturesCivilWar.jpg"">"	
+<i><b><p> CWBR: </i></b> Professor Meier, I appreciate you taking the time to sit and discuss your most recent work, <i>Nature's Civil War: Common Soldiers and the Environment in 1862 Virginia.</i></p>"	Frawley, Michael	Spring 2014	2014-05-01	Interview			University of North Carolina Press					"<img hspace=6 align=LEFT width=161 height=242 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/NaturesCivilWar.jpg"">"					
 5122	978-0-7006-1797-5	$39.95	CWBR AUTHOR INTERVIEW: <br>A Generation at War: The Civil War Era in a Northern Community		Etcheson, Nicole			"<h3>Interview with Nicole Etcheson, Alexander M. Bracken Professor of History at Ball State University</h3><br>
 
 <h3><i>Civil War Book Review</i> would like to congratulate Nicole Etcheson on winning the 2012 Avery O. Craven Award for this title, given by The Organization of American Historians, for most original book on the coming of the Civil War, the Civil War years, or the Era of Reconstruction, with the exception of works of purely military history.</h3><br>
@@ -792,7 +792,7 @@ What he preferred and what he had supported and voted for in 1848 was to extend 
 <i><b><p>CWBR: </b></i> You mention some of the strides that African Americans are able to make in the years after the war in the way that Putnam County alters the way that its viewpoint on race.  I wonder, generally speaking, does post-war Putnam County’s experience help explain African-Americans’ struggle to make social headway nationally leading into the Jim Crow period?  It seems to me that, while they are making strides, many white residents are simply apathetic about race in this period in Putnam County.  </p>
 <b><p>NE:</b> Yes, some are.  There are two things going on.  One, of course, is that African Americans during the Civil War and during Reconstruction are seeking to better their condition.  So, by the 1870s, in particular, there builds up, in some areas of North Carolina dissatisfaction with the end of Reconstruction, with the re-imposition of discriminatory measures by the state of North Carolina, and so African Americans there start thinking about leaving.  But then there is also a coordinate movement in Indiana, and ultimately in Putnam County, to recruit blacks to come to the county.  And the white Republicans who do this-some of them are self-interested- want cheap labor, so they think former slaves from the South may work for less than white laborers in the county.  Some of it is, this is a very closely divided county, and local Republicans are looking to bring in Republican voters; everyone denies that this is going on.  That doesn’t seem to be how it started.  Local Democrats will say that they went out looking for voters; they’re importing voters.  It does not seem to have, then, the genesis of the movement but it certainly was a nice added side effect.  And so you get these white Republicans who were bringing in, or hoping to bring in, these North Carolina African Americans.  And local Democrats are certainly not indifferent about it; they are mad as hell and we talk about the Exoduster movement to Kansas and there was a national, congressional committee to investigate what was happening with the movement of blacks out of the South.  Because our focus has largely been on the movement from the Deep South to Kansas, we have tended to miss the fact that the whole reason to call this congressional committee into session was that they were worried (Democrats in Congress were worried) about black movement into Indiana.  That was really the origin of the congressional concern and a lot of the testimony was about Kansas but a lot of it was about Indiana as well, and in that local testimony you see local Democrats organizing to drive African Americans out.  Now, ultimately what happens is, a lot of these Exodusters who come to Putnam County, they end up leaving.  Many of them go to Indianapolis, some of it because racial prejudice was stronger in the countryside than they had been led to believe.  I think a lot of it has to do with there being less economic opportunity than they had been led to believe so they go to Indianapolis which is a larger, growing metropolis and there are more jobs there.  But some of these Exodusters stay in the county, some of them marry into the Townsend and form the real beginnings of the black community in the county.  </p>
 <i><b><p>CWBR: </b></i>Professor Etcheson, I want to thank once again for taking the time to discuss your book today, <i>A Generation at War: The Civil War Era in a Northern Community.</i></p>
-<b><p>NE:</b> Well, thank you very much for having me.</p>"	Buman, Nathan	Spring 2012	2012-05-01	Interview			University Press of Kansas					"<img hspace=6 align=LEFT width=161 height=231 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/AGenerationAtWar.jpg"">"	
+<b><p>NE:</b> Well, thank you very much for having me.</p>"	Buman, Nathan	Spring 2012	2012-05-01	Interview			University Press of Kansas					"<img hspace=6 align=LEFT width=161 height=231 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/AGenerationAtWar.jpg"">"					
 5801	978-1-4696-1085-6	$34.95	CWBR Author Interview: <br>Washington Brotherhood: Politics, Social Life, and the Coming of the Civil War		Shelden, Rachel			"<h3>Interview with Rachel Shelden, Assistant Professor of History at the University of Oklahoma</h3><br>
 <h3>Interviewed by Zach Isenhower</h3>
 <p>
@@ -840,7 +840,7 @@ What he preferred and what he had supported and voted for in 1848 was to extend 
 
 <i><b><p> CWBR: </i></b> Professor Shelden, I appreciate you taking the time to sit and discuss your most recent work, <i>Washington Brotherhood: Politics, Social Life, and the Coming of the Civil War</i>. </p>
 
-<p><b>RS:</b> Thank you so much, I enjoyed talking with you. </p>"	Isenhower, Zach	Summer 2014	2014-08-01	Interview			University of North Carolina Press					"<img hspace=6 align=LEFT width=161 height=245 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/WashingtonBrotherhood.jpg"">"	
+<p><b>RS:</b> Thank you so much, I enjoyed talking with you. </p>"	Isenhower, Zach	Summer 2014	2014-08-01	Interview			University of North Carolina Press					"<img hspace=6 align=LEFT width=161 height=245 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/WashingtonBrotherhood.jpg"">"					
 6173	9780674286085	$22.95	CWBR Author Interview: <br>The Long Emancipation: The Demise of Slavery in the United States		Berlin, Ira			"<h3>Interview with Ira Berlin, Distinguished University Professor of History at the University of Maryland</h3><br>
 <h3>Interviewed by Zach Isenhower</h3>
 <p>
@@ -901,7 +901,7 @@ What he preferred and what he had supported and voted for in 1848 was to extend 
 
 <p><b><i>CWBR</i></b>: Well Professor Berlin, I appreciate you taking the time to discuss with us your most recent work, <i>The Long Emancipation: The Demise of Slavery in the United States</i>.</p>
 
-<p><b>IB</b>: Thank you very much.</p>"	Isenhower, Zach	Winter 2016	2016-02-01	Interview			Harvard University Press					"<img hspace=6 align=LEFT width=161 height=264 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/BerlinLongEmancipation.jpg"">"	
+<p><b>IB</b>: Thank you very much.</p>"	Isenhower, Zach	Winter 2016	2016-02-01	Interview			Harvard University Press					"<img hspace=6 align=LEFT width=161 height=264 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/BerlinLongEmancipation.jpg"">"					
 6113	9780807159187	$47.50	CWBR Author Interview: <br>The British Gentry, the Southern Planter, and the Northern Family Farmer: Agriculture and Sectional Antagonism in North America		Huston, James L.			"<h3>Interview with James L. Huston, Regents Professor of History at Oklahoma State University</h3><br>
 <h3>Interviewed by Zach Isenhower</h3>
 <p>
@@ -971,7 +971,7 @@ What he preferred and what he had supported and voted for in 1848 was to extend 
 
 <p><strong>JH</strong>: Thank you.</p>
 
-<p><i>The </i>Civil War Book Review<i> extends its sympathies to the Oklahoma State University and Stillwater communities in the wake of the October 24, 2015 Homecoming parade tragedy.  Readers interested in expressing their support can find information on memorials and donations for victims <strong><a href=""http://go.okstate.edu/parade-memorial"">here</a></strong>.</p>"	Isenhower, Zach	Fall 2015	2015-11-01	Interview			Louisiana State University Press					"<img hspace=6 align=LEFT width=161 height=242 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/HustonGentryPlanterFarmerAntagonists.jpg"">"	
+<p><i>The </i>Civil War Book Review<i> extends its sympathies to the Oklahoma State University and Stillwater communities in the wake of the October 24, 2015 Homecoming parade tragedy.  Readers interested in expressing their support can find information on memorials and donations for victims <strong><a href=""http://go.okstate.edu/parade-memorial"">here</a></strong>.</p>"	Isenhower, Zach	Fall 2015	2015-11-01	Interview			Louisiana State University Press					"<img hspace=6 align=LEFT width=161 height=242 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/HustonGentryPlanterFarmerAntagonists.jpg"">"					
 5362	978-0-393-06531-2	$29.95	CWBR AUTHOR INTERVIEW: <br>Freedom National: The Destruction of Slavery in the United States, 1861-1865		Oakes, James			"<h3>Interview with James Oakes, Distinguished Professor of History and Graduate School Humanities Professor at the City University of New York Graduate Center</h3><br>
 
 <h3>Interviewed by Michael Frawley</h3>
@@ -1011,7 +1011,7 @@ What he preferred and what he had supported and voted for in 1848 was to extend 
 <i><b>CWBR: </i></b>   Professor Oakes, I appreciate you taking the time to sit and discuss your most recent work, <i>Freedom National: The Destruction of slavery in the United States, 1861-1865</i>.</p>
 <p>
 
-<b>JO:</b>  Thank you very much.</p>"	Frawley, Michael	Winter 2013	2013-02-01	Interview			W. W. Norton & Company					"<img hspace=6 align=LEFT width=161 height=237 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/FreedomNational.jpg"">"	
+<b>JO:</b>  Thank you very much.</p>"	Frawley, Michael	Winter 2013	2013-02-01	Interview			W. W. Norton & Company					"<img hspace=6 align=LEFT width=161 height=237 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/FreedomNational.jpg"">"					
 6240	9780813060798	$84.95	CWBR Author Interview: <br>Unequal Freedoms: Ethnicity, Race, and White Supremacy in Civil War-Era Charleston		Strickland, Jeff			"<h3>Interview with Jeff Strickland, Associate Professor of History at Montclair State University</h3><br>
 <h3>Interviewed by Zach Isenhower</h3>
 <p>
@@ -1076,7 +1076,7 @@ What he preferred and what he had supported and voted for in 1848 was to extend 
 
 <p><b><i>CWBR</i></b>: Well it's a fascinatingly complex dynamic, I really enjoyed reading it.  Professor Strickland, I appreciate you taking the time to chat with us about your most recent book, <i>Unequal Freedoms: Ethnicity, Race, and White Supremacy in Civil War-Era Charleston</i>. </p>
 
-<p><b>JS</b>: Thank you very much, Zach, it's been a pleasure.</p>"	Isenhower, Zach	Spring 2016	2016-05-01	Interview			University Press of Florida					"<img hspace=6 align=LEFT width=161 height=240 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/StricklandUnequalFreedoms.jpg"">"	
+<p><b>JS</b>: Thank you very much, Zach, it's been a pleasure.</p>"	Isenhower, Zach	Spring 2016	2016-05-01	Interview			University Press of Florida					"<img hspace=6 align=LEFT width=161 height=240 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/StricklandUnequalFreedoms.jpg"">"					
 5437	978-0-8078-3583-8	$37.50	CWBR AUTHOR INTERVIEW: <br>Doctoring Freedom: The Politics of African American Medical Care		Long, Gretchen			"<h3>Interview with Gretchen Long, Associate Professor of History and Chair of the Africana Studies Program at Williams College </h3><br>
 
 <h3>Interviewed by Michael Frawley</h3>
@@ -1122,7 +1122,7 @@ What he preferred and what he had supported and voted for in 1848 was to extend 
 <b>GL:</b> Yeah that's right and it plays and integral part in the development of the community in the midst of incredibly cynical suffering that a lot of black soldiers, and their families and freed people in contraband camps are really suffering during the war, and just after there the small pox epidemic, there’s a lot of poverty in cities, there’s a cholera epidemic in 1866, but through all this in advocating for the care they do get even though it is scant, and for advocating for medical education even though it is often substandard, they really seize on their rights and their kind of language that helps them present themselves as freed people. </p>
 <p>
 <i><b>CWBR: </i></b>Professor Long, I appreciate you taking the time to sit and discuss your most recent work, Doctoring Freedom: The Politics of African American Medical Care.</p>
-<b>GL:</b> Thank you for having me.</p>"	Frawley, Michael	Spring 2013	2013-05-01	Interview			University of North Carolina Press					"<img hspace=6 align=LEFT width=161 height=246 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/DoctoringFreedom.jpg"">"	
+<b>GL:</b> Thank you for having me.</p>"	Frawley, Michael	Spring 2013	2013-05-01	Interview			University of North Carolina Press					"<img hspace=6 align=LEFT width=161 height=246 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/DoctoringFreedom.jpg"">"					
 5207	9787-0-8078-3542-5	$40.00	CWBR AUTHOR INTERVIEW: <br>The Civil War in the West: Victory and Defeat from the Appalachians to the Mississippi		Hess, Earl J.			"<h3>Interview with Earl J. Hess, the Stewart W. McClelland Chair in history at Lincoln Memorial University</h3><br>
 
 <h3>Interviewed by Nathan Buman</h3>
@@ -1172,10 +1172,7 @@ What he preferred and what he had supported and voted for in 1848 was to extend 
 <p>
 <b><i>CWBR</i>:</b>  Professor Hess, thank you for taking the time today to discuss <i>The Civil War in the West: Victory and Defeat from the Appalachians to the Mississippi</i>.  </p>
 <p>
-<b>EH:</b>  Sure, I enjoyed it.  Thank you.</p>"	Buman, Nathan A.	Summer 2012	2012-08-01	Interview			University of North Carolina Press					"<img hspace=6 align=LEFT width=161 height=242 alt=""Product Cover"" border=0 src=""/
-civilwarbookreview/images/jackets/TheCivilWarInTheWest.jpg"">
-
-civilwarbookreview/images/jackets/TheCivilWar.jpg"">"	
+<b>EH:</b>  Sure, I enjoyed it.  Thank you.</p>"	Buman, Nathan A.	Summer 2012	2012-08-01	Interview			University of North Carolina Press					"<img hspace=6 align=LEFT width=161 height=242 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/TheCivilWarInTheWest.jpg"">"		"<img hspace=6 align=LEFT width=161 height=242 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/TheCivilWar.jpg"">"			
 5668	9780199751716	$27.95	CWBR Author Interview: <br> Appomattox: Victory, Defeat, and Freedom at the End of the Civil War		Varon, Elizabeth R.			"<h3>Interview with Elizabeth Varon, the Langbourne M. Williams Professor of American History at the University of Virginia</h3><br>
 <h3>Interviewed by Michael Frawley</h3>
 <p>
@@ -1217,7 +1214,7 @@ civilwarbookreview/images/jackets/TheCivilWar.jpg"">"
 <p>
 <b>EV:</b>  This “golden moment lost” phenomenon is really quite fascinating. Each of the three interpretations that I just outlined--the notion of the surrender as a vindication; the emphasis on the part of Southerners like Lee on restoration; and then the variation on vindication, the emphasis of African Americans on liberation--each of these interpretive modes came to incorporate an argument about the lost promise of Appomattox. For Lee and his followers, as I have suggested, Radical Republicans betray the true meaning of the surrender by imposing a regime that contravenes the promise that southerners won’t be “disturbed.” For Grant and his followers, it is Andrew Johnson who is the arch betrayer, as he seems to capitulate to Lee's idea that the peace must bring the restoration of power to elite southerners. In the eyes of African Americans, whites on both sides--both those who oppose and reject black citizenship but also those who give up the fight for it--let this moment of promise, of Appomattox, fade unfulfilled. I am trying to make two arguments about this. First of all I am asserting that there is never a moment of unity in this story. There is never a moment of shared reconciliation. There is never a moment when Southerners in unison mourn their lost cause and northerners in unison rejoice. There is never a moment in which Confederates are prepared to concede that their ideology has been discredited. In essence, Northerners who embrace Grant's terms said to the South, ""We don’t want to punish you any further, we want you to change."" Southerners, Confederates, turned back and argued that the demand for change was a form of punishment. Northerners said “here is your chance to atone,” and Confederates responded that they had nothing to atone for. I don’t see much evidence of a true golden moment there. The battle lines were drawn very quickly. The terms became politicized very quickly. On the other hand, I am trying to account for why the golden moment interpretation, despite the fact that it was kind of wishful thinking, why it had such power and resilience.  I observe that it tapped a strain of American exceptionalism:  that even as they grappled over the surrender terms, Northerners and Southerners could, and did, congratulate themselves for ending their Civil War in a more civil way than any other nation had ever done before. I also try to account in other ways for the resilience of this golden moment idea. I stress, for example, as I have stressed in our talk here today, that African Americans have had their own reasons for upholding the surrender as a golden moment. They believed that they had, at the moment of the surrender, won something, and earned something, and proven something that should never be taken away. So all of the various stakeholders had their own reasons for being intensely invested in the idea of the golden moment--and for charging their political rivals was having betrayed it. </p>
 
-<i><b><p> CWBR: </i></b>  Professor Varon, I appreciate you taking the time to sit and discuss your most recent work, Appomattox: Victory, Defeat, and Freedom at the End of the Civil War. </p>"	Frawley, Michael	Winter 2014	2014-02-01	Interview			Oxford University Press					"<img hspace=6 align=LEFT width=161 height=242 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/Appomattox.jpg"">"	
+<i><b><p> CWBR: </i></b>  Professor Varon, I appreciate you taking the time to sit and discuss your most recent work, Appomattox: Victory, Defeat, and Freedom at the End of the Civil War. </p>"	Frawley, Michael	Winter 2014	2014-02-01	Interview			Oxford University Press					"<img hspace=6 align=LEFT width=161 height=242 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/Appomattox.jpg"">"					
 4755	978-0-8078-3426-8	$35.00	CWBR AUTHOR INTERVIEW <br>God's Almost Chosen Peoples: A Religious History of the American Civil War</br>		Rable, George C.			"<h3>Interview with George C. Rable, Professor and holder of the Summersell Chair in Southern History at the University of Alabama</h3><br>
 <h3>Interviewed by Nathan A. Buman</h3>
 <p>
@@ -1274,7 +1271,7 @@ civilwarbookreview/images/jackets/TheCivilWar.jpg"">"
 <p>
 <b><i>CWBR:</i></b> Professor Rable, thank you so much for joining me and taking the time to discuss your recent book, <i>God’s Almost Chosen Peoples: A Religious History of the American Civil War</i>.</p>
 <p>
-<b>GR:</b> It’s been my pleasure.</p>"	Buman, Nathan	Winter 2011	2011-02-01	Interview			University of North Carolina Press					"<img hspace=6 align=LEFT width=161 height=243 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/GodsAlmostChosenPeoples.jpg"">"	
+<b>GR:</b> It’s been my pleasure.</p>"	Buman, Nathan	Winter 2011	2011-02-01	Interview			University of North Carolina Press					"<img hspace=6 align=LEFT width=161 height=243 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/GodsAlmostChosenPeoples.jpg"">"					
 4245	9780813927862	$29.95 hardcover	"CWBR AUTHOR INTERVIEW:<br>""What Shall We Do with The Negro?"": Lincoln, White Racism, and Civil War America"		Escott, Paul D.			"<h3>Interview with Dr. Paul D. Escott, Reynolds Professor of History at Wake Forest University</h3><br>
 <h3>Interviewed by Christopher Childers</h3>
 <p>
@@ -1344,7 +1341,7 @@ Had it not been for the resistance of southern whites during Reconstruction, it�
 <p>
 Northern racism remained strong and remained a problem. We need to remember, I think, just how pervasive and powerful racism was during period of the Civil War and Reconstruction. It’s part of our nation’s history -- it’s a deep part of our history that we need to remember and recall. I think that the celebratory strain in our popular culture wants to look at the Civil War as a great triumph in so many ways because it makes us feel better about the nation. But I believe that a realistic view of our history does not preclude our feeling good about some of the progress we’ve made. If you recognize the depth and seriousness of racism during the Civil War era, you also could feel that we finally have made a lot of progress since that time. It was a different world then and the pervasiveness of racism and its seriousness in the 19th century was far greater than what we have encountered in our lifetimes.</p>
 <p>
-<b><i>CWBR:</i></b> Thank you.</p>"	Childers, Christopher	Spring 2009	2009-05-01	Interview			University of Virginia Press					"<img hspace=6 align=LEFT width=161 height=243 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/WhatDoNegro.JPG"">"	
+<b><i>CWBR:</i></b> Thank you.</p>"	Childers, Christopher	Spring 2009	2009-05-01	Interview			University of Virginia Press					"<img hspace=6 align=LEFT width=161 height=243 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/WhatDoNegro.JPG"">"					
 4327	9780521541770	$21.99 softcover	CWBR AUTHOR INTERVIEW:<br> Mastering America: Southern Slaveholders and the Crisis of American Nationhood		Bonner, Robert E.			"<h3>Interview with Dr. Robert E. Bonner, Associate Professor of History at Dartmouth College</h3><br>
 <h3>Interviewed by Christopher Childers</h3>
 <p>
@@ -1388,7 +1385,7 @@ Therefore to withdraw from the Union is legitimate because the original treaty h
 <p>
 <b><i>REB: </b></i>   This portrays the sliver of the project, where I draw on the insights of David Potter on the conflicting loyalties of region and nation and interest in the 1850s. Potter includes some off-handed remarks about the Mount Vernon movement, the American Revolution, and the fiercely proprietary claims that southerners are making on the revolutionary heritage. And so Potter's work was really influential especially in framing the project to begin with. Thinking about the revolutionary heritage makes a lot of sense.  As you get into the Confederate period, it becomes even more so I suppose and that may be a little bit more well known in terms of other historians have written.  Faust and Anne Rubin, among others, have really thought about how Confederates answered these questions and made it a benefit to have an American revolutionary past at their disposal by popularizing the notion that this is the Second American Revolution, a moment of great historical importance that future generations will remember and identify with in the same way that this generation identified with the revolutionary period creating a whole cast of heroes and heroic episodes and so on and so forth.  That hot house environment of war does escalate and intensify the connections, but certainly in thinking about the identification of antebellum Americans with the revolutionary past. </p>
 <p>
-<b><i>CWBR: </b></i>  Thank you.</p>"	Childers, Christopher	Summer 2009	2009-08-01	Interview			Cambridge University Press					"<img hspace=6 align=LEFT width=161 height=241 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/MasteringAmerica.jpg"">"	
+<b><i>CWBR: </b></i>  Thank you.</p>"	Childers, Christopher	Summer 2009	2009-08-01	Interview			Cambridge University Press					"<img hspace=6 align=LEFT width=161 height=241 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/MasteringAmerica.jpg"">"					
 4481	9780195118094	$34.95	CWBR AUTHOR INTERVIEW <br> Deliver Us from Evil: The Slavery Question in the Old South		Ford, Lacy K. Jr.			"<h3>Interview with Dr. Lacy K. Ford, Jr., Professor of History at the University of South Carolina</h3><br>
 <h3>Interviewed by Nathan Buman</h3>
 <p>
@@ -1440,7 +1437,7 @@ Therefore to withdraw from the Union is legitimate because the original treaty h
 <p>
 <b><i>CWBR:</b></i>    Well Professor for Thank you so much for joining me in discussing your most recent book <i>Deliver Us from Evil: The Question of Slavery in the Old South.</i></p>
 <p>
-<b><i>LKF:</b></i>  Thank you for asking me.  It’s been fun.</p>"	Buman, Nathan	Winter 2010	2010-02-01	Interview			Oxford University Press					"<img hspace=6 align=LEFT width=161 height=240 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/DeliverUs.jpg"">"	
+<b><i>LKF:</b></i>  Thank you for asking me.  It’s been fun.</p>"	Buman, Nathan	Winter 2010	2010-02-01	Interview			Oxford University Press					"<img hspace=6 align=LEFT width=161 height=240 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/DeliverUs.jpg"">"					
 4637	978-0-8078-3377-3	$35.00	CWBR AUTHOR INTERVIEW <br>Reluctant Rebels: The Confederates Who Joined the Army after 1861</br>		Noe, Kenneth W.			"<h3>Interview with Dr. Kenneth W. Noe, Professor of History at Auburn University</h3><br>
 <h3>Interviewed by Nathan Buman</h3>
 <p>
@@ -1493,4 +1490,4 @@ Therefore to withdraw from the Union is legitimate because the original treaty h
 <p>
 <b><i>CWBR</i></b>: Professor Noe, thank you for joining me and discussing your most recent book, <i>Reluctant Rebels: The Confederates Who Joined the Army after 1861</i>.</p>
 <p>
-<b><i>KN</i></b>: Thank you; I enjoyed it.</p>"	Nathan Buman	Summer 2010	2010-08-01	Interview			University of North Carolina Press					"<img hspace=6 align=LEFT width=161 height=245 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/ReluctantRebels.jpg"">"	
+<b><i>KN</i></b>: Thank you; I enjoyed it.</p>"	Nathan Buman	Summer 2010	2010-08-01	Interview			University of North Carolina Press					"<img hspace=6 align=LEFT width=161 height=245 alt=""Product Cover"" border=0 src=""/civilwarbookreview/images/jackets/ReluctantRebels.jpg"">"					
