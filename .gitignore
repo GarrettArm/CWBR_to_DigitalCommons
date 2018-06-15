@@ -20,6 +20,7 @@ lib64/
 parts/
 sdist/
 var/
+wheels/
 *.egg-info/
 .installed.cfg
 *.egg
@@ -42,7 +43,11 @@ htmlcov/
 .cache
 nosetests.xml
 coverage.xml
+<<<<<<< HEAD
 *,cover
+=======
+*.cover
+>>>>>>> lsu/master
 .hypothesis/
 
 # Translations
@@ -66,7 +71,11 @@ docs/_build/
 # PyBuilder
 target/
 
+<<<<<<< HEAD
 # IPython Notebook
+=======
+# Jupyter Notebook
+>>>>>>> lsu/master
 .ipynb_checkpoints
 
 # pyenv
@@ -75,20 +84,42 @@ target/
 # celery beat schedule file
 celerybeat-schedule
 
+<<<<<<< HEAD
+=======
+# SageMath parsed files
+*.sage.py
+
+>>>>>>> lsu/master
 # dotenv
 .env
 
 # virtualenv
+<<<<<<< HEAD
+=======
+.venv
+>>>>>>> lsu/master
 venv/
 ENV/
 
 # Spyder project settings
 .spyderproject
+<<<<<<< HEAD
+=======
+.spyproject
+>>>>>>> lsu/master
 
 # Rope project settings
 .ropeproject
 
+<<<<<<< HEAD
 
 output/
 images/
 audio/
+=======
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+>>>>>>> lsu/master

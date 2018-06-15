@@ -15,3 +15,4 @@ if running from Windows, do:
     install Anaconda for python3 (64bit)
     in anaconda prompt, run `pip install reportlab`
     navigate to this project's folder, and run `jupyter notebook`
+
